@@ -4,7 +4,7 @@
 #
 Name     : enmerkar
 Version  : 0.7.1
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/8f/6e/3930a6a285fbb350bdaf648569febeaf96ddb5813aa76c608000f73bc636/enmerkar-0.7.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8f/6e/3930a6a285fbb350bdaf648569febeaf96ddb5813aa76c608000f73bc636/enmerkar-0.7.1.tar.gz
 Summary  : Utilities for using Babel in Django
